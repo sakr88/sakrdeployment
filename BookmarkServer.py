@@ -7,6 +7,7 @@ import requests
 import os
 from urllib.parse import unquote, parse_qs
 
+
 memory = {}
 
 form = '''<!DOCTYPE html>
